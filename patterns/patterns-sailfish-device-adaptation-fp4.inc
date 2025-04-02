@@ -56,8 +56,9 @@ Requires: usb-moded
 # hammerhead, grouper, and maguro use this in scripts, so include for all
 Requires: rfkill
 
-# enable fingerprint reader
+# Enable fingerprint reader
 Requires: sailfish-devicelock-fpd
+Requires: sailfish-fpd
 
 # Enable home encryption
 Requires: sailfish-device-encryption
