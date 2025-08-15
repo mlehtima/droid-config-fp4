@@ -1,2 +1,2 @@
-load-module module-droid-card hw_volume=false
+load-module module-droid-card hw_volume=false unload_call_exit=true
 load-module module-udev-detect
